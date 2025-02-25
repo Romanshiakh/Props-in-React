@@ -1,0 +1,14 @@
+.student{
+    border: 10px solid rgb(119, 39, 180);
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 20px;
+    display: inline-block;
+    background-color:rgb(45, 193, 121);
+    margin: 20px;
+    
+}
+
+body{
+    background: rgb(138, 126, 126);
+}
